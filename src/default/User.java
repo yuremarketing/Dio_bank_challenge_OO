@@ -1,8 +1,13 @@
+import default.AccountImpl;
 
 public class User{
-    protected String name;
-    protected String adress;
-    protected int cpf;
-    protected int age;
-    protected boolean actve;
+    // defini User ( jurídico/ fisico)
+    
+    private String name;
+    private String adress;
+    private int cpf;
+    private int age;
+    private boolean active;
+   
+
 }
